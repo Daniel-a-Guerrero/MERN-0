@@ -24,3 +24,5 @@ create express app:
 Running a file with nodemon: `nodemon .\server.js`
 
 Devscript: in package.json scripts section, `"dev" : "nodemon server.js"`
+
+Interjection: I accidentally deleted everything after trying to revert to a previous commit after accidentally pushing `\node_modules\`.
